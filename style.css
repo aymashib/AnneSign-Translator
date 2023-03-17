@@ -1,0 +1,106 @@
+body{
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+  
+
+.navigation-links{
+  position: relative;
+  display: flex;
+  list-style-type: none;
+  margin-right: 110px;
+  left: 75px;
+  bottom: 35px;
+  color: black;
+  text-decoration: none;
+  font-family: 'Lexend Tera';
+}
+.smaller {
+  width: 30%;
+  height: 30%;
+  padding-left: 10%;
+  padding-top: 4%;
+  }
+  .logo{
+    width: 120px;
+    height: 70px;
+    margin: 0;
+  }
+  p{
+    font-family: 'Andale Mono';
+  }
+  p:hover{
+    transition: 0.5s;
+    color: purple;
+    cursor: none;
+  }
+ .onions {
+    width: 55%;
+   padding-left: 3%;
+   padding-top: 5%;
+  }
+
+.loveletters {
+  width: 60%;
+  height: 60%;
+}
+  
+#text {
+  font-family: "Lexend Tera";
+  line-height: 10%;
+  font-size: 900%;
+  padding-left: 15%;
+}
+    
+#text2 {
+  font-family: "Lexend Tera";
+  line-height: 10%;
+  font-size: 400%;
+  padding-top: 5%;
+  padding-left: 3%;
+  }
+#text-photo {
+  display: flex;
+  position: relative;
+  bottom: 65px;
+}
+#text-photo2 {
+  display: flex;
+  position: relative;
+  bottom: 65px;
+}
+#text-photo3 {
+  display: flex;
+}
+footer{
+  background-color: black;
+  color: white;
+  padding: 20px;
+  position: relative;
+  display: flex;
+  top: 100px;
+}
+footer ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+footer li {
+  display: inline-block;
+  margin-right: 10px;
+}
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+.powered-message{
+  align-items: center;
+  position: relative;
+  display: flex;
+  left: 45%;
+  bottom: 10px;
+  font-size: 20px;
+}
